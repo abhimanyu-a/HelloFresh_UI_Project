@@ -1,6 +1,6 @@
 Feature: Sucessful Checkout
 
-  @m1u1 @all @positive
+   @all @positive
   Scenario Outline: TC3 - Successful checkout with valid user
     Given User Navigates to 'AutomationPractice' website URL
     Then User clicks on SignIn button in Home page
