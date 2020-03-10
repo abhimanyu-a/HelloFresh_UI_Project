@@ -41,6 +41,6 @@ type the following command
 
 ## Logs
 
-
+<img width="956" alt="Log" src="https://user-images.githubusercontent.com/54126870/76310617-1fe78e80-62f5-11ea-9a9f-fd5c6ffeb92b.PNG">
 
 
