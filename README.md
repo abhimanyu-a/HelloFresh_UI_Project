@@ -17,10 +17,10 @@ Tests are written in Gherkin language in feature file following BDD style
 Test data are stored in feature file as well as config file. As a resullt, the feature file is the single point of resource for understanding a feature.
 Parallel execution, running in incognito and headless mode are the other features
 
-- Test1--> : Login_Valid_User.feature
-- Test2--> User_Signup.feature
-- Test3--> Checkout_Sucessful.feature
-- Test4-->: Login_Invalid_Credentials.feature
+- **Test1** -->  Login_Valid_User.feature
+- **Test2:**--> User_Signup.feature
+- **Test3:**--> Checkout_Sucessful.feature
+- **Test4:** Login_Invalid_Credentials.feature
 
 #### Steps to run
 ### Method1
@@ -37,5 +37,10 @@ type the following command
     mvn install 
     mvn test 
 ```
+## Reports
+
+## Logs
+
+
 
 
