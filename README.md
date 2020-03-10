@@ -43,4 +43,8 @@ type the following command
 
 <img width="956" alt="Log" src="https://user-images.githubusercontent.com/54126870/76310617-1fe78e80-62f5-11ea-9a9f-fd5c6ffeb92b.PNG">
 
+## Headless mode
+
+<img width="960" alt="Headless" src="https://user-images.githubusercontent.com/54126870/76310820-908eab00-62f5-11ea-9cf2-642b01829072.PNG">
+
 
