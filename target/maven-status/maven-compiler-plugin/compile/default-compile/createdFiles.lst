@@ -1,0 +1,13 @@
+com\hellofresh\utils\PropertyUtils.class
+com\hellofresh\page\BasePage.class
+com\hellofresh\utils\ScreenshotUtil.class
+com\hellofresh\page\CheckoutPage.class
+com\hellofresh\utils\RandomUtil.class
+com\hellofresh\page\RegistrationPage.class
+com\hellofresh\page\LoginPage.class
+com\hellofresh\utils\LOG.class
+com\hellofresh\drivermanagement\DriverManager.class
+com\hellofresh\drivermanagement\DriverManagerFactory.class
+com\hellofresh\utils\PaymentType.class
+com\hellofresh\drivermanagement\ChromeDriverManager.class
+com\hellofresh\drivermanagement\HomePage.class
