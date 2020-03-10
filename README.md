@@ -37,7 +37,7 @@ type the following command
     mvn install 
     mvn test 
 ```
-## Reports
+
 
 ## Logs
 
@@ -46,5 +46,11 @@ type the following command
 ## Headless mode
 
 <img width="960" alt="Headless" src="https://user-images.githubusercontent.com/54126870/76310820-908eab00-62f5-11ea-9cf2-642b01829072.PNG">
+
+## Reports
+
+# Cucumber native reports
+
+<img width="925" alt="report" src="https://user-images.githubusercontent.com/54126870/76310957-e400f900-62f5-11ea-9368-72e8bd0c8109.PNG">
 
 
