@@ -15,7 +15,7 @@ The test resources like feature file, config.property file are placed in the ```
 The page classes are listening to a base class which provides a fluent API interface to access the test method. Hence, using the '.' operator, subsequent actions can be added with ease.
 Tests are written in Gherkin language in feature file following BDD style
 Test data are stored in feature file as well as config file. As a resullt, the feature file is the single point of resource for understanding a feature.
-Parallel execution, running in incognito and headless mode are the other features
+Parallel execution, running in incognito and headless mode are the other features that can be changed from the  ``` Config.properties  ``` file placed in  ``` src/test/resources  ```
 
 - **Test1** -->  Login_Valid_User.feature
 - **Test2:**--> User_Signup.feature
