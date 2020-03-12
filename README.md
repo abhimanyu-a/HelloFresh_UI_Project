@@ -1,4 +1,4 @@
-# HelloFresh_UI_Project
+# Selenium_UIAutomation_Project
 The purpose of this project is to design a comprehensive UI framework to perform UI functional automation testing
 Project Summary:
 
